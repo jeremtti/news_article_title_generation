@@ -1,5 +1,5 @@
 # Description
-This project (MS Data Science in Ecole Polytechnique, 2024) is joint work with Jeremie Touati to summarize French news articles and automatically find a title to these articles. 
+This project (Text Mining and NLP, Ecole Polytechnique, 2024) is joint work with Paul Vanborre to summarize French news articles and automatically generate a title to these articles. 
 
 We leverage pretrained models from HuggingFace. However, since our training data was in French and most models were English specific, we had to use multilingual or French specific transformers. For summarization such a good model is called Barthez.
 
